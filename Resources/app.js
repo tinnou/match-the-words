@@ -43,4 +43,4 @@ if (Ti.version < 1.8 ) {
 	new Window().open();
 })();
 
-alert('Hello world');
+alert('Hello world 2nd commit');
